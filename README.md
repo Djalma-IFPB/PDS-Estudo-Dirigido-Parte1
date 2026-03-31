@@ -15,29 +15,29 @@ análise de sinais discretos, bem como a modelagem e classificação de sistemas
 
 * Estrutura do Repositório:
 
-README.md                       - Este arquivo
+README.md                       ( Este arquivo )
 
 > teoria:
 
-resumo_teorico.pdf              - Resumo teórico fundamentado
-discussao_tecnica.pdf           - Discussão técnica (teoria × prática)
+resumo_teorico.pdf              ( Resumo teórico fundamentado )
+discussao_tecnica.pdf           ( Discussão técnica (teoria × prática))
 
 
 > Simulacoes:
 
-01 Sequencias elementares.py     # Sequências: impulso, degrau, rampa, exponencial, senoide
-02 Operações com sinais.py       # Operações: deslocamento, inversão, escalonamento, soma
-03 Energia e potência.py         # Energia e potência de sinais discretos
-04 Classificação de sistemas.py  # Classificação de 6 sistemas (linearidade, causalidade, etc.)
-05 Sensor real pbl.py            # Problema PBL: modelagem de sensor de vibração
+01. Sequencias elementares.py     ( Sequências: impulso, degrau, rampa, exponencial, senoide)
+02. Operações com sinais.py       ( Operações: deslocamento, inversão, escalonamento, soma)
+03. Energia e potência.py         ( Energia e potência de sinais discretos)
+04. Classificação de sistemas.py  ( Classificação de 6 sistemas (linearidade, causalidade, etc.)
+05. Sensor real pbl.py            ( Problema PBL: modelagem de sensor de vibração)
 
 > Resultados:
 
-01 sequencias elementares.png  # Gráficos das sequências elementares
-02 operacoes sinais.png        # Gráficos das operações com sinais
-03 energia potencia.png        # Gráficos de energia e potência
-04 classificacao sistemas.png  # Classificação de sistemas
-05 Sensor real pbl.png         # Testes sensor de vibração, filtro e falhas pbl
+01. sequencias elementares.png   ( Gráficos das sequências elementares )
+02. operacoes sinais.png         ( Gráficos das operações com sinais )
+03. energia potencia.png         ( Gráficos de energia e potência )
+04. classificacao sistemas.png   ( Classificação de sistemas )
+05. Sensor real pbl.png          (Testes sensor de vibração, filtro e falhas pbl )
  
 * Conteúdos Abordados:
 
