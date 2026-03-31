@@ -1,10 +1,11 @@
 PDS-Estudo-Dirigido-Parte1
+
 Estudo Dirigido — Parte 1: Modelagem de Sinais e Sistemas Discretos
 
 Disciplina: Processamento Digital de Sinais  
 Instituição: Instituto Federal da Paraíba — IFPB  
 Curso: Telemática
-Aluno: Djalma L da Silva Jr
+
 
 Descrição:
 
