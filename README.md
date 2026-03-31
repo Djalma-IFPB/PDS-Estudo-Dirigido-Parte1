@@ -1,21 +1,18 @@
-# PDS-Estudo-Dirigido-Parte1
-- Estudo Dirigido — Parte 1: Modelagem de Sinais e Sistemas Discretos
+PDS-Estudo-Dirigido-Parte1
+Estudo Dirigido — Parte 1: Modelagem de Sinais e Sistemas Discretos
 
 Disciplina: Processamento Digital de Sinais  
 Instituição: Instituto Federal da Paraíba — IFPB  
 Curso: Telemática
+Aluno: Djalma L da Silva Jr
 
-
-- Descrição:
+Descrição:
 
 Estudo Dirigido — Parte 1 da disciplina de Processamento Digital de Sinais, abordando os fundamentos matemáticos da representação e 
 análise de sinais discretos, bem como a modelagem e classificação de sistemas digitais.
 
 
-- Estrutura do Repositório
-
-
-PDS-Estudo-Dirigido-Parte1
+* Estrutura do Repositório:
 
 README.md                       # Este arquivo
 
@@ -25,7 +22,7 @@ resumo_teorico.pdf              # Resumo teórico fundamentado
 discussao_tecnica.pdf           # Discussão técnica (teoria × prática)
 
 
->simulacoes:
+> Simulacoes:
 
 01 Sequencias elementares.py     # Sequências: impulso, degrau, rampa, exponencial, senoide
 02 Operações com sinais.py       # Operações: deslocamento, inversão, escalonamento, soma
@@ -33,7 +30,7 @@ discussao_tecnica.pdf           # Discussão técnica (teoria × prática)
 04 Classificação de sistemas.py  # Classificação de 6 sistemas (linearidade, causalidade, etc.)
 05 Sensor real pbl.py            # Problema PBL: modelagem de sensor de vibração
 
-> resultados:
+> Resultados:
 
 01 sequencias elementares.png  # Gráficos das sequências elementares
 02 operacoes sinais.png        # Gráficos das operações com sinais
@@ -41,9 +38,9 @@ discussao_tecnica.pdf           # Discussão técnica (teoria × prática)
 04 classificacao sistemas.png  # Classificação de sistemas
 05 Sensor real pbl.png         # Testes sensor de vibração, filtro e falhas pbl
  
-- Conteúdos Abordados
+* Conteúdos Abordados:
 
-- Resumo Teórico:
+Resumo Teórico:
 
 1. Sinais contínuos e discretos — definições, processo de amostragem, Teorema de Nyquist-Shannon
 2. Sequências elementares — impulso unitário, degrau, rampa, exponencial real, exponencial complexa, senoide discreta
@@ -63,16 +60,16 @@ Simulações Computacionais:
 
 > Como Executar (Esses códigos foram testados no google colab)
 
-- Requisitos
+Requisitos:
 
 - Python 3.8+
 - NumPy
 - Matplotlib
 
 
-- Execução
+* Execução
 
-> Abrir os arquivos em um notebook do google colab ou em algum de sua preferência
+Abrir os arquivos em um notebook do google colab ou em algum de sua preferência
 
 01 sequencias elementares.py
 02 operacoes sinais.py
@@ -84,7 +81,7 @@ Simulações Computacionais:
 Os gráficos mostrados estão na pasta "resultados"
 
 
-- Discussão Técnica
+* Discussão Técnica
 
 A discussão completa, incluindo a resposta ao problema norteador (PBL), está na pasta "teoria"
 
@@ -96,7 +93,7 @@ Em resumo, a modelagem de sinais de sensores reais envolve:
 
 
 
-> Referências Bibliográficas
+* Referências Bibliográficas
 
 - OPPENHEIM, A. V.; SCHAFER, R. W. **Discrete-Time Signal Processing**. 3ª ed. Pearson, 2010.
 - LATHI, B. P. **Linear Systems and Signals**. 2ª ed. Oxford University Press, 2005.
