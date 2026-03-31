@@ -52,11 +52,11 @@ Resumo Teórico:
 
 Simulações Computacionais:
 
-01 sequencias elementares.py - Geração e plotagem de 6 sequências elementares
-02 operacoes sinais.py - Demonstração de deslocamento, inversão, decimação, soma e multiplicação
-03 energia potencia.py - Cálculo de energia e potência de 4 tipos de sinais com energia acumulada
-04 classificacao sistemas.py - Teste numérico de linearidade e invariância + classificação de 6 sistemas
-05 sensor real pbl.py - Modelagem de sensor de vibração (1800 RPM) com filtragem e análise energética
+01. sequencias elementares.py - Geração e plotagem de 6 sequências elementares
+02. operacoes sinais.py - Demonstração de deslocamento, inversão, decimação, soma e multiplicação
+03. energia potencia.py - Cálculo de energia e potência de 4 tipos de sinais com energia acumulada
+04. classificacao sistemas.py - Teste numérico de linearidade e invariância + classificação de 6 sistemas
+05. sensor real pbl.py - Modelagem de sensor de vibração (1800 RPM) com filtragem e análise energética
 
 
 > Como Executar (Esses códigos foram testados no google colab)
@@ -72,11 +72,11 @@ Requisitos:
 
 Abrir os arquivos em um notebook do google colab ou em algum de sua preferência
 
-01 sequencias elementares.py
-02 operacoes sinais.py
-03 energia potencia.py
-04 classificacao sistemas.py
-05 sensor real pbl.py
+01. sequencias elementares.py
+02. operacoes sinais.py
+03. energia potencia.py
+04. classificacao sistemas.py
+05. sensor real pbl.py
 
 
 Os gráficos mostrados estão na pasta "resultados"
