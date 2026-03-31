@@ -15,12 +15,12 @@ análise de sinais discretos, bem como a modelagem e classificação de sistemas
 
 * Estrutura do Repositório:
 
-README.md                       # Este arquivo
+README.md                       - Este arquivo
 
 > teoria:
 
-resumo_teorico.pdf              # Resumo teórico fundamentado
-discussao_tecnica.pdf           # Discussão técnica (teoria × prática)
+resumo_teorico.pdf              - Resumo teórico fundamentado
+discussao_tecnica.pdf           - Discussão técnica (teoria × prática)
 
 
 > Simulacoes:
