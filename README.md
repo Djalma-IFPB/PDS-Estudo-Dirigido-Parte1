@@ -13,14 +13,14 @@ Estudo Dirigido — Parte 1 da disciplina de Processamento Digital de Sinais, ab
 análise de sinais discretos, bem como a modelagem e classificação de sistemas digitais.
 
 
-* Estrutura do Repositório:
+> Estrutura do Repositório:
 
-.README.md                       ( Este arquivo )
+* README.md                       ( Este arquivo )
 
 > teoria:
 
-.resumo_teorico.pdf              ( Resumo teórico fundamentado )
-.discussao_tecnica.pdf           ( Discussão técnica (teoria × prática))
+* resumo_teorico.pdf              ( Resumo teórico fundamentado )
+* discussao_tecnica.pdf           ( Discussão técnica (teoria × prática))
 
 
 > Simulacoes:
@@ -41,7 +41,7 @@ análise de sinais discretos, bem como a modelagem e classificação de sistemas
  
 * Conteúdos Abordados:
 
-Resumo Teórico:
+> Resumo Teórico:
 
 1. Sinais contínuos e discretos — definições, processo de amostragem, Teorema de Nyquist-Shannon
 2. Sequências elementares — impulso unitário, degrau, rampa, exponencial real, exponencial complexa, senoide discreta
@@ -50,7 +50,7 @@ Resumo Teórico:
 5. Classificação de sistemas — memória, linearidade, invariância no tempo, causalidade, estabilidade BIBO, invertibilidade
 6. Sistemas LTI — convolução discreta e resposta ao impulso
 
-Simulações Computacionais:
+> Simulações Computacionais:
 
 01. sequencias elementares.py - Geração e plotagem de 6 sequências elementares
 02. operacoes sinais.py - Demonstração de deslocamento, inversão, decimação, soma e multiplicação
